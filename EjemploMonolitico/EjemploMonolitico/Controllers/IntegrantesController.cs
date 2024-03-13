@@ -18,7 +18,7 @@ namespace EjemploMonolitico.Controllers
         [Route("Integrantes")]
         public ActionResult mostrarIntegrantes()
         {
-            return Ok("Carlos Vargas y José De León");
+            return Ok("Carlos Vargas, Ximena Elizardi y José De León");
         }
 
     }
